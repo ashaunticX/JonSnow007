@@ -1,0 +1,21 @@
+.body{
+  background-color: black;
+  margin:0;
+  padding:0;
+}
+
+
+
+
+#watch {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+
+  }
+  
+  #watch span {
+    padding: 0 5px;
+    background-color: chartreuse;
+  }
